@@ -1,0 +1,844 @@
+﻿<Mappings><Entry OldName="AntiStressColorShuffler.DownloadSuggestionsHelper.tsiDownloadRoot" NewName="A.cbdc262d32992a6a5b40cec987b0e87a1.cf1e82941c16da646eb43b0ca7e84ebb4" />
+<Entry OldName="AntiStressColorShuffler.DownloadSuggestionsHelper.Category" NewName="A.cbdc262d32992a6a5b40cec987b0e87a1.cf3cd249c8ea8ece453bb00847468eab0" />
+<Entry OldName="AntiStressColorShuffler.DownloadSuggestionsHelper.App" NewName="A.cbdc262d32992a6a5b40cec987b0e87a1.ce32f70b71a8696f8c5f57d6c63882b61" />
+<Entry OldName="AntiStressColorShuffler.DownloadSuggestionsHelper.Url" NewName="A.cbdc262d32992a6a5b40cec987b0e87a1.c5fab312f6c49c1d9b56a68e939aefa2e" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.InChangeLanguage" NewName="AntiStressColorShuffler.frmAbout.caa5417e6499b97cce64cb66e91948609" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.components" NewName="AntiStressColorShuffler.frmAbout.c07e15be750df24b84189a2b834068d8f" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.lblAbout" NewName="AntiStressColorShuffler.frmAbout.c08484b19e4e8c98db1eb26dfe9e08152" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.btnClose" NewName="AntiStressColorShuffler.frmAbout.cedcc6f8ae69dc67d452ec5f18252cb3a" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.pictureBox1" NewName="AntiStressColorShuffler.frmAbout.c1898b669002f1e9750b23a24cfc71cd4" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.linkLabel1" NewName="AntiStressColorShuffler.frmAbout.cc42eba2706d96eae2a8cc201121b69cf" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.label1" NewName="AntiStressColorShuffler.frmAbout.c343370112201ba056f411feb8ce41a13" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.label2" NewName="AntiStressColorShuffler.frmAbout.cfcb313c012ded2c43b44edc2832ea885" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.linkLabel2" NewName="AntiStressColorShuffler.frmAbout.c5a38534517f1327d1183995b0afc0ecf" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.niceLine1" NewName="AntiStressColorShuffler.frmAbout.cd5c480a0ce40560b5a46091b7375040d" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.niceLine3" NewName="AntiStressColorShuffler.frmAbout.c4b7ff5d7deed98fd24d3ac45f2dcf3b9" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.label3" NewName="AntiStressColorShuffler.frmAbout.c30cf212be63ccbfe6f9084645a49713d" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.ullProductWebpage" NewName="AntiStressColorShuffler.frmAbout.caaa4bdcc2487ea2d50d82fb0b17291f7" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.btnBuy" NewName="AntiStressColorShuffler.frmAbout.cf1e454d6c9dd961ab82c091cf808832a" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.lblRegistered" NewName="AntiStressColorShuffler.frmAbout.c6e4a046bb6c53d920f1d7d18f224cbdf" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.btnRegister" NewName="AntiStressColorShuffler.frmAbout.c1f6c4e8fe163e9453c4354e79f86556f" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.niceLine2" NewName="AntiStressColorShuffler.frmAbout.c4f63dac2cd92c02065250e1723460012" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.label4" NewName="AntiStressColorShuffler.frmAbout.c7e0b46c2d65fc4c4e49b14395a358569" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.lblLicenseKey" NewName="AntiStressColorShuffler.frmAbout.c8eef82720c6abdc30799dbc324f2df70" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.niceLine4" NewName="AntiStressColorShuffler.frmAbout.c11d394a2879d1d1adf9518e9c692c72f" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.pictureBox2" NewName="AntiStressColorShuffler.frmAbout.c6ea2b5631f85f90f095a0130e7f436f8" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.menuStrip1" NewName="AntiStressColorShuffler.frmAbout.c193407da07fc0783e4052a6bc3109894" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.downloadToolStripMenuItem" NewName="AntiStressColorShuffler.frmAbout.c0463f5e48c590e63ff177dc9e25743dc" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.languageToolStripMenuItem" NewName="AntiStressColorShuffler.frmAbout.c736648eb646d21bcc7ad419ea1477b55" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.languages1ToolStripMenuItem" NewName="AntiStressColorShuffler.frmAbout.cc04618a92c1c713f55282a7131e5f6d3" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.languages2ToolStripMenuItem" NewName="AntiStressColorShuffler.frmAbout.c85bb133430bd21a23ae34b1091ac4ff9" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.helpToolStripMenuItem" NewName="AntiStressColorShuffler.frmAbout.c8490dfe750e3fd0886538fe2a850039a" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.helpGuideToolStripMenuItem" NewName="AntiStressColorShuffler.frmAbout.c395a8a816b872272afcb2ee1da254afa" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.pleaseDonateToolStripMenuItem1" NewName="AntiStressColorShuffler.frmAbout.c2d82e0e6fd02a1992cf81d6a328da176" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="AntiStressColorShuffler.frmAbout.c36c04c8cff9207b5ac683946cf3938bf" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.tiHelpFeedback" NewName="AntiStressColorShuffler.frmAbout.c51d69e25a5ecb76eb7f3b3c00fbd7eca" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.checkForNewVersionToolStripMenuItem" NewName="AntiStressColorShuffler.frmAbout.c02e2df6469f42e01602c0797fade3264" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.toolStripMenuItem1" NewName="AntiStressColorShuffler.frmAbout.c9e80d108e28058638f19514820d61e22" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.followUsOnTwitterToolStripMenuItem" NewName="AntiStressColorShuffler.frmAbout.cfd2b98745be9757cb23c78fc1f62c569" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="AntiStressColorShuffler.frmAbout.c920a03c9fbe70c4271b2fb3187f6c367" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate._DownloadFile" NewName="AntiStressColorShuffler.frmDownloadUpdate.c2d0d3ba375858cd6d2506cb132ed0d5b" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.components" NewName="AntiStressColorShuffler.frmDownloadUpdate.c07e15be750df24b84189a2b834068d8f" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.pgBar" NewName="AntiStressColorShuffler.frmDownloadUpdate.ca1e1fe4f685562a7d4bc46c9a0066d00" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.btnCancelDownload" NewName="AntiStressColorShuffler.frmDownloadUpdate.ccab5adbeab41c91ca838448a09eea4c4" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.bwDownload" NewName="AntiStressColorShuffler.frmDownloadUpdate.cb954b9efddd6aed36b83b399b48c8f58" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.label1" NewName="AntiStressColorShuffler.frmDownloadUpdate.c343370112201ba056f411feb8ce41a13" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.lblTotalSize" NewName="AntiStressColorShuffler.frmDownloadUpdate.c24bb9db30367075b2aaa0526cebf8536" />
+<Entry OldName="AntiStressColorShuffler.frmLanguage.components" NewName="AntiStressColorShuffler.frmLanguage.c07e15be750df24b84189a2b834068d8f" />
+<Entry OldName="AntiStressColorShuffler.frmLanguage.label1" NewName="AntiStressColorShuffler.frmLanguage.c343370112201ba056f411feb8ce41a13" />
+<Entry OldName="AntiStressColorShuffler.frmLanguage.cmbLanguage" NewName="AntiStressColorShuffler.frmLanguage.cace06fc8feb56f045122ab4642a6dc07" />
+<Entry OldName="AntiStressColorShuffler.frmLanguage.btnOK" NewName="AntiStressColorShuffler.frmLanguage.c114fc1024e2ecb8c8c7c5e5d85055049" />
+<Entry OldName="AntiStressColorShuffler.frmMain.InLoad" NewName="AntiStressColorShuffler.frmMain.c4e02a83896cdde1db8a3ef0aff70e855" />
+<Entry OldName="AntiStressColorShuffler.frmMain.kCount" NewName="AntiStressColorShuffler.frmMain.c23abe1088cab5fb534709a9ae174087e" />
+<Entry OldName="AntiStressColorShuffler.frmMain.jCount" NewName="AntiStressColorShuffler.frmMain.ca118af923a1be98982a111df4cabddde" />
+<Entry OldName="AntiStressColorShuffler.frmMain.lstClearRectangle" NewName="AntiStressColorShuffler.frmMain.c3217cc83866f72367ff111ec5ce6e213" />
+<Entry OldName="AntiStressColorShuffler.frmMain.bmp" NewName="AntiStressColorShuffler.frmMain.c4b426612b709d92c2846a96abf974133" />
+<Entry OldName="AntiStressColorShuffler.frmMain.InPaintPic" NewName="AntiStressColorShuffler.frmMain.cb34445eb9be2ed8907c5c5cec17ae292" />
+<Entry OldName="AntiStressColorShuffler.frmMain.wasMaxBeforeFullscreen" NewName="AntiStressColorShuffler.frmMain.ced7ec2729d440ac988a63020de6f4797" />
+<Entry OldName="AntiStressColorShuffler.frmMain.components" NewName="AntiStressColorShuffler.frmMain.c07e15be750df24b84189a2b834068d8f" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnClose" NewName="AntiStressColorShuffler.frmMain.cedcc6f8ae69dc67d452ec5f18252cb3a" />
+<Entry OldName="AntiStressColorShuffler.frmMain.pic" NewName="AntiStressColorShuffler.frmMain.ccaf368c34cb8cb6383705edb3beef4d3" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnShuffle" NewName="AntiStressColorShuffler.frmMain.cac2bf65dc5a4f3841d0eb04b3762db6c" />
+<Entry OldName="AntiStressColorShuffler.frmMain.timAnimate" NewName="AntiStressColorShuffler.frmMain.cb16db1b329dc6e0c56af93c26681cc54" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnClear" NewName="AntiStressColorShuffler.frmMain.cbd8d0e645048dc9217b1a7f1846544fc" />
+<Entry OldName="AntiStressColorShuffler.frmMain.timClear" NewName="AntiStressColorShuffler.frmMain.c8e52530b87113543aba07e2e381a40c5" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnAnimate" NewName="AntiStressColorShuffler.frmMain.cc404fa499e4f0cd9bd6744b02595bc96" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnAnimateInc" NewName="AntiStressColorShuffler.frmMain.c466177b937efa26f3027d8c69abe2c4e" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnAnimateDec" NewName="AntiStressColorShuffler.frmMain.cfded4d2f17c83ba083de7b862583dc59" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnSizeDec" NewName="AntiStressColorShuffler.frmMain.cfc79906c0f4a7967d53f88ec7db4764d" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnSizeInc" NewName="AntiStressColorShuffler.frmMain.cf431b238f304bf44062fac795371f807" />
+<Entry OldName="AntiStressColorShuffler.frmMain.cmbShape" NewName="AntiStressColorShuffler.frmMain.c6dc9f445921c20529c91cc0631d01e46" />
+<Entry OldName="AntiStressColorShuffler.frmMain.toolTip1" NewName="AntiStressColorShuffler.frmMain.cca3416eb3607fdc97d21298c7588bfd9" />
+<Entry OldName="AntiStressColorShuffler.frmMain.linkLabel1" NewName="AntiStressColorShuffler.frmMain.cc42eba2706d96eae2a8cc201121b69cf" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnFullscreen" NewName="AntiStressColorShuffler.frmMain.cfa2ef845591f372c24a0f57dce9fb9f1" />
+<Entry OldName="AntiStressColorShuffler.frmMain.cmbPresets" NewName="AntiStressColorShuffler.frmMain.cf185be5f3cd589993d3c092761fa49be" />
+<Entry OldName="AntiStressColorShuffler.ImageComboBox.imageList" NewName="A.c171546accc9dbed20d3b7e2ed379d8f5.cd8446e36cf6809fc041d9d994faf7396" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem._text" NewName="A.c76876f736184916f17faf7ac73fd8785.c5c17b32ce503b9e3dc5c682a0e45804c" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem._imageIndex" NewName="A.c76876f736184916f17faf7ac73fd8785.c43d859698f0fe9c44523a4cbc2e81b81" />
+<Entry OldName="AntiStressColorShuffler.Module.BlueForeColor" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c3fab24a1e9f12c505ccfb81a2c62a37c" />
+<Entry OldName="AntiStressColorShuffler.Module.ApplicationName" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c3cc0f243fe593721718ae602bbce59f4" />
+<Entry OldName="AntiStressColorShuffler.Module.Version" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c4dc474147bc07bccbad5c1cb62902803" />
+<Entry OldName="AntiStressColorShuffler.Module.ShortApplicationTitle" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c178f18593a18b1b32e59eec5051a5049" />
+<Entry OldName="AntiStressColorShuffler.Module.ApplicationTitle" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c632db693b12058088a43428068e452c0" />
+<Entry OldName="AntiStressColorShuffler.Module.DownloadURL" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c62f516f21415c7e55ef6f5300f213e75" />
+<Entry OldName="AntiStressColorShuffler.Module.HelpURL" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c6d2d05d00e22d4d4ca07a22394111647" />
+<Entry OldName="AntiStressColorShuffler.Module.ProductWebpageURL" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c6913c62360bc354cc4411e95c1de2c78" />
+<Entry OldName="AntiStressColorShuffler.Module.BuyURL" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c1e6d6dd9bda7040342b25e81b97b17be" />
+<Entry OldName="AntiStressColorShuffler.Module.VersionURL" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c362cf65e76c4e64dfd438289d34d9b01" />
+<Entry OldName="AntiStressColorShuffler.Module.TipText" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c331e0d465064f966ded94ba2b77a3427" />
+<Entry OldName="AntiStressColorShuffler.Module.GeneratedTemporaryFiles" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.ccc1060c586203966628dcb4463f77df1" />
+<Entry OldName="AntiStressColorShuffler.Module.OpenFilesFilter" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c1f5b0ec7673c41f58d8fd193b7ac87a7" />
+<Entry OldName="AntiStressColorShuffler.Module.OpenImagesFilter" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c0d2a8c61ddc72efa4287770f453d103a" />
+<Entry OldName="AntiStressColorShuffler.Module.AcceptableMediaInputPattern" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c6f5e6c9bca3969c210363840959bb9c6" />
+<Entry OldName="AntiStressColorShuffler.Module.AppDataDirectory" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c8c069a2723d5aa7bde1abc1bac440071" />
+<Entry OldName="AntiStressColorShuffler.Module.CurrentImagesDirectory" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.ce6190d0ada740b2d61d2e222691e3b99" />
+<Entry OldName="AntiStressColorShuffler.Module.SelectedLanguage" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c1ee5e24437f5bee4831f25753ec46bc9" />
+<Entry OldName="AntiStressColorShuffler.Module.args" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.ca4bbdf4cc9b1084dd3c05b7dcadb0018" />
+<Entry OldName="AntiStressColorShuffler.Module.IsCommandLine" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.cd2e7088ad13bec567a0d33f8bf33b2ab" />
+<Entry OldName="AntiStressColorShuffler.Module.IsFromWindowsExplorer" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.cbd36f5761f70a4641a0555d1a9517895" />
+<Entry OldName="AntiStressColorShuffler.Module.DoNotOverwriteFiles" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c91a67885a87fb7fa7c4913bb59f93dc5" />
+<Entry OldName="AntiStressColorShuffler.Module.AskBeforeOverwrite" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c21f94903400e33327f041710a583140d" />
+<Entry OldName="AntiStressColorShuffler.Module.LeaveSameDateTime" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c538459df476982067fef71305d33a903" />
+<Entry OldName="AntiStressColorShuffler.Module._Modex64" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c65a6129676f13b203365e71f2f249750" />
+<Entry OldName="AntiStressColorShuffler.NiceLine.components" NewName="AntiStressColorShuffler.NiceLine.c07e15be750df24b84189a2b834068d8f" />
+<Entry OldName="AntiStressColorShuffler.NiceLine._Caption" NewName="AntiStressColorShuffler.NiceLine.c54a4ca44b92d9d73bea3990f123f10c7" />
+<Entry OldName="AntiStressColorShuffler.NiceLine._CaptionMarginSpace" NewName="AntiStressColorShuffler.NiceLine.ce09de7ef0bc7bd999abc483b0dccc0e7" />
+<Entry OldName="AntiStressColorShuffler.NiceLine._CaptionPadding" NewName="AntiStressColorShuffler.NiceLine.c28ecdebca939c1a13c66c621c258619b" />
+<Entry OldName="AntiStressColorShuffler.NiceLine._LineVerticalAlign" NewName="AntiStressColorShuffler.NiceLine.c751f4cce07d5d17e7544dc0a3106f256" />
+<Entry OldName="AntiStressColorShuffler.NiceLine._CaptionOrizontalAlign" NewName="AntiStressColorShuffler.NiceLine.ca2102c94bc2b4d4c685abd808b3b9e0e" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.resourceMan" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.c99c13d008363db7d042ad0b26a591ed3" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.resourceCulture" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.c57c93d5bf49b99a56c69f83358359575" />
+<Entry OldName="AntiStressColorShuffler.ResTranslate.resourceMan" NewName="A.ca3d7e4954aab1f6ef8af41bc307dd464.c99c13d008363db7d042ad0b26a591ed3" />
+<Entry OldName="AntiStressColorShuffler.ResTranslate.resourceCulture" NewName="A.ca3d7e4954aab1f6ef8af41bc307dd464.c57c93d5bf49b99a56c69f83358359575" />
+<Entry OldName="AntiStressColorShuffler.TranslateHelper.rm" NewName="A.c199e1616ad63ac6cf4021c805b2bcdfd.ce420e1fb250f40a28f1876b9a165a3a5" />
+<Entry OldName="AntiStressColorShuffler.TranslateHelper.rm2" NewName="A.c199e1616ad63ac6cf4021c805b2bcdfd.cfa5e4dd3acbd6443f49615f31f79ed1e" />
+<Entry OldName="AntiStressColorShuffler.ucTextProgressBar.WmPaint" NewName="AntiStressColorShuffler.ucTextProgressBar.c4c29611c8f71bc6a54b7b0f225bec5de" />
+<Entry OldName="AntiStressColorShuffler.ucTextProgressBar.components" NewName="AntiStressColorShuffler.ucTextProgressBar.c07e15be750df24b84189a2b834068d8f" />
+<Entry OldName="AntiStressColorShuffler.UpdateHelper.bwCheckVersion" NewName="AntiStressColorShuffler.UpdateHelper.c09712fe3719192fe348f560b407b77bf" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.resourceMan" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.c99c13d008363db7d042ad0b26a591ed3" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.resourceCulture" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.c57c93d5bf49b99a56c69f83358359575" />
+<Entry OldName="AntiStressColorShuffler.DownloadSuggestionsHelper..ctor()" NewName="A.cbdc262d32992a6a5b40cec987b0e87a1..ctor()" />
+<Entry OldName="AntiStressColorShuffler.DownloadSuggestionsHelper.SetupDownloadMenuItems(ToolStripMenuItem tsiDownload)" NewName="A.cbdc262d32992a6a5b40cec987b0e87a1.c5e2ad93c4d1d045083aa163da5056941(ToolStripMenuItem cac88960676aed604024647fc4691819c)" />
+<Entry OldName="AntiStressColorShuffler.DownloadSuggestionsHelper.tsi_Click(Object sender, EventArgs e)" NewName="A.cbdc262d32992a6a5b40cec987b0e87a1.cb4b51d56e7b63a45878540f2f7220cc9(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c9b217483f5ea8d992d07f4bcb918d156(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.AddLanguageMenuItems()" NewName="AntiStressColorShuffler.frmAbout.c48948710b601f35fe6ac2919d9fd12dc()" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.tiLang_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.cdab07cf388ede8b664c1b90689f350a3(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.ChangeLanguage(String language_code)" NewName="AntiStressColorShuffler.frmAbout.ca029392e2e6f0ef19125401db441b4a6(String ce2047b9d6062485ca5acd325dfb31d21)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c24ee35276dd45c8a23fd1d14993683a4(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c127056c7bd219f04226364a05c6bcfaf(Object c932fd30592914643229592ef1e684058, LinkLabelLinkClickedEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c2f2a8c09fd8e5aa658577e25837e313b(Object c932fd30592914643229592ef1e684058, LinkLabelLinkClickedEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.btnBuy_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.ce55bbcc5839dcdee857c760331b33aa5(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.btnRegister_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c8a253233aa59e6edcf46c7c4ef9a55bf(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.cb4916325ae62098fb4b5de3ecf8ed942(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.pleaseDonateToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c44ed87415c48959105f8b6eeceb83590(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c0f86c4fe64b01c5bd04e3211b07751c1(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c9bfbbf3c89046dc20b7d06d6a9fc15f0(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c9077ec673be521819a60f63aecf45f2d(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c2faa74798b71ac6de835ce6c7fe6093a(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c25fdde94db53ca0a7380291a4941d138(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c9006b7907d56cbc3aff83f93e29a972c(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmAbout.c609879b5b834b443243f7ff2539a3aa8(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmAbout.InitializeComponent()" NewName="AntiStressColorShuffler.frmAbout.c3e73a52af2e8f186418ee14e2873c622()" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmDownloadUpdate.cdbda738f8bfc0b4b8b87da07dafd937f(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="AntiStressColorShuffler.frmDownloadUpdate.c4760938f05c26d690a68ab55fdc1f8ba(Object c932fd30592914643229592ef1e684058, AsyncCompletedEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="AntiStressColorShuffler.frmDownloadUpdate.c34796efe0a4f10465d05ba72b2539f0b(Object c932fd30592914643229592ef1e684058, DownloadProgressChangedEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmDownloadUpdate.cad7110bf47eae17b68f04fb7685108fe(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmDownloadUpdate.InitializeComponent()" NewName="AntiStressColorShuffler.frmDownloadUpdate.c3e73a52af2e8f186418ee14e2873c622()" />
+<Entry OldName="AntiStressColorShuffler.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmLanguage.cb787703feb724fc3cf3822662c3a7c17(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmLanguage.c1894616a79fcc2da74eb4d25d462ccd2(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmLanguage.InitializeComponent()" NewName="AntiStressColorShuffler.frmLanguage.c3e73a52af2e8f186418ee14e2873c622()" />
+<Entry OldName="AntiStressColorShuffler.frmMain.frmReport_Load(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.c2c8697d14587ad73d0baedf403e37bc5(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnClose_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.c24ee35276dd45c8a23fd1d14993683a4(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.pic1_Paint(Object sender, PaintEventArgs e)" NewName="AntiStressColorShuffler.frmMain.cbeb2a2c526acfb29f9f56a53f334a319(Object c932fd30592914643229592ef1e684058, PaintEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnShuffle_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.c8c039acfc58eb185e95f99217f8a0074(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.timAnimate_Tick(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.cc3b3cced99f099acc184381b498f4c95(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.timClear_Tick(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.ce2b7cb6aee1cbdcf6062de06ad19ad91(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnClear_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.cfc2a776c0561dab6624c739ba03d98bf(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnSizeInc_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.c041ee1ba453e66f7d01331ab83151b4b(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnSizeDec_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.c5efd052bd49b617ebd00a9a79e2315c3(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.PaintPic()" NewName="AntiStressColorShuffler.frmMain.c514201cf70a469ac53953517083ee490()" />
+<Entry OldName="AntiStressColorShuffler.frmMain.frmMain_Resize(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.c93812b088361e9074354412f1106c5ba(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnAnimate_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.cc0494aa3abbc8e1475530c8bd58bbc5a(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnAnimateDec_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.c016f5a24188055068aca661b2fd4a8ae(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnAnimateInc_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.c87cda6c631a97a0e3e6dff29a69492fb(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.cmbShape_SelectedIndexChanged(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.c51eacf7aed42d76d796c427626049a46(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.SetToolTips()" NewName="AntiStressColorShuffler.frmMain.c5eaa76c0790c2ddf9d82bdefb83c4f68()" />
+<Entry OldName="AntiStressColorShuffler.frmMain.urlLinkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="AntiStressColorShuffler.frmMain.ca0fb7f9fb5f83edc2d98657c82043ef1(Object c932fd30592914643229592ef1e684058, LinkLabelLinkClickedEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="AntiStressColorShuffler.frmMain.c127056c7bd219f04226364a05c6bcfaf(Object c932fd30592914643229592ef1e684058, LinkLabelLinkClickedEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="AntiStressColorShuffler.frmMain.cb2a140a81917ab2d51588c2e6c2d163b(Object c932fd30592914643229592ef1e684058, FormClosingEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.btnFullscreen_Click(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.c879d62239735adfd4dbc429b6f6ee510(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.frmMain_KeyPress(Object sender, KeyPressEventArgs e)" NewName="AntiStressColorShuffler.frmMain.c1ffb17414923f1f424576d2e947e074b(Object c932fd30592914643229592ef1e684058, KeyPressEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.cmbPresets_SelectedIndexChanged(Object sender, EventArgs e)" NewName="AntiStressColorShuffler.frmMain.cb2c0c7a320f6c211cac954baac4889f3(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.frmMain.InitializeComponent()" NewName="AntiStressColorShuffler.frmMain.c3e73a52af2e8f186418ee14e2873c622()" />
+<Entry OldName="AntiStressColorShuffler.ImageComboBox..ctor()" NewName="A.c171546accc9dbed20d3b7e2ed379d8f5..ctor()" />
+<Entry OldName="AntiStressColorShuffler.ImageComboBox.get_ImageList()" NewName="A.c171546accc9dbed20d3b7e2ed379d8f5.get_c41aeccd4adfd350c449cfc0edb2f59e6()" />
+<Entry OldName="AntiStressColorShuffler.ImageComboBox.set_ImageList(ImageList value)" NewName="A.c171546accc9dbed20d3b7e2ed379d8f5.set_c41aeccd4adfd350c449cfc0edb2f59e6(ImageList c3785d17c7f66349df77d7c8764b4b5c7)" />
+<Entry OldName="AntiStressColorShuffler.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.c171546accc9dbed20d3b7e2ed379d8f5.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem..ctor()" NewName="A.c76876f736184916f17faf7ac73fd8785..ctor()" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem..ctor(String text)" NewName="A.c76876f736184916f17faf7ac73fd8785..ctor(String c3ee0e9ddd56694a51bb46fa6f0e657c8)" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.c76876f736184916f17faf7ac73fd8785..ctor(String c3ee0e9ddd56694a51bb46fa6f0e657c8, Int32 cfb4bda20ac6ab3b7cdd9e57d104271a3)" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem.get_Text()" NewName="A.c76876f736184916f17faf7ac73fd8785.get_c61ec1f0842b45058c8704eb296665d0e()" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem.set_Text(String value)" NewName="A.c76876f736184916f17faf7ac73fd8785.set_c61ec1f0842b45058c8704eb296665d0e(String c3785d17c7f66349df77d7c8764b4b5c7)" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem.get_ImageIndex()" NewName="A.c76876f736184916f17faf7ac73fd8785.get_c1affa0face136acda884ee86eeb606a9()" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.c76876f736184916f17faf7ac73fd8785.set_c1affa0face136acda884ee86eeb606a9(Int32 c3785d17c7f66349df77d7c8764b4b5c7)" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem.ToString()" NewName="A.c76876f736184916f17faf7ac73fd8785.ToString()" />
+<Entry OldName="AntiStressColorShuffler.Module..ctor()" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0..ctor()" />
+<Entry OldName="AntiStressColorShuffler.Module..cctor()" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0..cctor()" />
+<Entry OldName="AntiStressColorShuffler.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c4901ada7f16cd63747ed93c41ea8c3d7(IntPtr cd0eac8b889ba957f81e206e3a9ac65eb, Int32 cec1738029b86da1bc0f5f18ec97f5265, Int32 c115dae0e3bcbf74d135e522e30fb5cdd, Int32 c71f697ad20718ed87b3f2dfa232d7726)" />
+<Entry OldName="AntiStressColorShuffler.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c50d33d24e38ae526341028c7a063ebd4(IntPtr cb445661aeda5dde953e4a38d71b0165b)" />
+<Entry OldName="AntiStressColorShuffler.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.cd1abc79c243738dd42c3de8515f308f6(Int32 cdd97e95fbad64d1d5cd900872df026c8)" />
+<Entry OldName="AntiStressColorShuffler.Module.IsLegalFilename(String name)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.ca0e6c712cd70e18b4636d468b5555498(String c7c1468fe524eea6899e6a62d09ec2495)" />
+<Entry OldName="AntiStressColorShuffler.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.cfd6333a8dc0d060c0af42d7d03e2fdba(String ccf937260f36126d08d65f7450baf582d, String cc31c6235735392361fa6b23ba6723e7b)" />
+<Entry OldName="AntiStressColorShuffler.Module.ShowMessage(String msg)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.ceed421a70e7725f27ddb8ad413902e4d(String c03bc50f0d259fbe0935a5d73155b7c0f)" />
+<Entry OldName="AntiStressColorShuffler.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c5d39188075b70128aad1f1803510b5a1(String c03bc50f0d259fbe0935a5d73155b7c0f, String c0997ca919ae57c9062fd0a54307febfa)" />
+<Entry OldName="AntiStressColorShuffler.Module.ShowError(Exception ex)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.ca8ae0ff39f339323f9b2fa170568a597(Exception cf245380bb44a9c9cdee0d372af0da2e0)" />
+<Entry OldName="AntiStressColorShuffler.Module.ShowError(String msg)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.ca8ae0ff39f339323f9b2fa170568a597(String c03bc50f0d259fbe0935a5d73155b7c0f)" />
+<Entry OldName="AntiStressColorShuffler.Module.ShowError(String msg, Exception ex)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.ca8ae0ff39f339323f9b2fa170568a597(String c03bc50f0d259fbe0935a5d73155b7c0f, Exception cf245380bb44a9c9cdee0d372af0da2e0)" />
+<Entry OldName="AntiStressColorShuffler.Module.ShowError(String msg, String exstr)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.ca8ae0ff39f339323f9b2fa170568a597(String c03bc50f0d259fbe0935a5d73155b7c0f, String c7bf60dabb93bbbfe9d94035776f951ce)" />
+<Entry OldName="AntiStressColorShuffler.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c35815db52c961514ef528849b2304925(Object c932fd30592914643229592ef1e684058, EventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c90229795f28cab56fe8577dc77a7b440(String c03bc50f0d259fbe0935a5d73155b7c0f, String c0997ca919ae57c9062fd0a54307febfa)" />
+<Entry OldName="AntiStressColorShuffler.Module.IsAcceptableMediaInput(String filepath)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c507693d5ddd8e4a5090f0fddc88e656d(String cfc1b4acb32f2df7c297400196e2d1b57)" />
+<Entry OldName="AntiStressColorShuffler.Module.get_Modex64()" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.get_c7f1b35c8803067be78175a8dd3842716()" />
+<Entry OldName="AntiStressColorShuffler.Module.DownloadPage(String uri)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.ca238bcda7baf50514556e89bfb7fc230(String c6e615d59d93be2577515378ed853cbb9)" />
+<Entry OldName="AntiStressColorShuffler.Module.HexConverter(Color c)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.cd7e1f7997ffab8c0930d008a9a8f15b5(Color cc6502b9e0a7cfd0912199ade12765789)" />
+<Entry OldName="AntiStressColorShuffler.Module.DecimalToString(Decimal dec)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c93b2c081321f97de5f896682dbf424b2(Decimal c086b307d9aa481dc555b3869f9c535f9)" />
+<Entry OldName="AntiStressColorShuffler.Module.DecimalToString(Decimal dec, Int32 decimal_places)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c93b2c081321f97de5f896682dbf424b2(Decimal c086b307d9aa481dc555b3869f9c535f9, Int32 c12f188210bffc42d45c9d0f645242d72)" />
+<Entry OldName="AntiStressColorShuffler.Module.StringToDecimal(String str)" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.c51b6d9b9cd95fe175f4cf58f18773f12(String c224b5a4742627a49d115e5795e14ee71)" />
+<Entry OldName="AntiStressColorShuffler.Module.get_IsWindows64Bit()" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0.get_c868fad89b3946620a2e68debb8290828()" />
+<Entry OldName="AntiStressColorShuffler.NiceLine.InitializeComponent()" NewName="AntiStressColorShuffler.NiceLine.c3e73a52af2e8f186418ee14e2873c622()" />
+<Entry OldName="AntiStressColorShuffler.Program.Main(String[] args)" NewName="A.c04255a747508a64d5d39a4ff3409c930.c0439e542cae36d76d226447d9ad8afc0(String[] ca4bbdf4cc9b1084dd3c05b7dcadb0018)" />
+<Entry OldName="AntiStressColorShuffler.ResFlags..ctor()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2..ctor()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_ResourceManager()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_ResourceManager()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_Culture()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_Culture()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.set_Culture(CultureInfo value)" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.set_Culture(CultureInfo value)" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_albania()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_albania()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_belarus()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_belarus()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_bulgaria()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_bulgaria()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_china()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_china()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_croatia()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_croatia()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_czech_republic()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_czech_republic()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_denmark()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_denmark()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_estonia()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_estonia()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_finland()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_finland()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_france()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_france()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_georgia()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_georgia()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_germany()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_germany()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_great_britain()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_great_britain()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_greece()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_greece()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_hungary()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_hungary()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_iceland()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_iceland()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_india()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_india()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_indonesia()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_indonesia()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_iran()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_iran()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_ireland()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_ireland()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_israel()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_israel()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_italy()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_italy()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_japan()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_japan()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_kenya()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_kenya()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_latvia()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_latvia()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_lithuania()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_lithuania()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_netherlands()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_netherlands()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_norway()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_norway()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_pakistan()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_pakistan()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_philippines()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_philippines()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_poland()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_poland()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_portugal()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_portugal()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_romania()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_romania()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_russia()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_russia()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_saudi_arabia()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_saudi_arabia()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_serbia_montenegro()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_serbia_montenegro()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_slovakia()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_slovakia()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_slovenia()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_slovenia()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_south_africa()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_south_africa()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_south_korea()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_south_korea()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_spain()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_spain()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_sweden()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_sweden()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_taiwan()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_taiwan()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_thailand()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_thailand()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_turkey()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_turkey()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_ukraine()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_ukraine()" />
+<Entry OldName="AntiStressColorShuffler.ResFlags.get_flag_vietnam()" NewName="A.c93dfc22d769a8c2f9448861f70d633d2.get_flag_vietnam()" />
+<Entry OldName="AntiStressColorShuffler.ResTranslate..ctor()" NewName="A.ca3d7e4954aab1f6ef8af41bc307dd464..ctor()" />
+<Entry OldName="AntiStressColorShuffler.ResTranslate.get_ResourceManager()" NewName="A.ca3d7e4954aab1f6ef8af41bc307dd464.get_ResourceManager()" />
+<Entry OldName="AntiStressColorShuffler.ResTranslate.get_Culture()" NewName="A.ca3d7e4954aab1f6ef8af41bc307dd464.get_Culture()" />
+<Entry OldName="AntiStressColorShuffler.ResTranslate.set_Culture(CultureInfo value)" NewName="A.ca3d7e4954aab1f6ef8af41bc307dd464.set_Culture(CultureInfo value)" />
+<Entry OldName="AntiStressColorShuffler.ShareHelper..ctor()" NewName="A.ce2ba5f3f377264f3060d76da4a6817e6..ctor()" />
+<Entry OldName="AntiStressColorShuffler.ShareHelper.get_ShareURL()" NewName="A.ce2ba5f3f377264f3060d76da4a6817e6.get_c82b0ee5dad25444b4855a1c0f3373925()" />
+<Entry OldName="AntiStressColorShuffler.ShareHelper.get_ShareText()" NewName="A.ce2ba5f3f377264f3060d76da4a6817e6.get_cbbb0161751b0184d341e7ca7c0802ab7()" />
+<Entry OldName="AntiStressColorShuffler.ShareHelper.ShareFacebook()" NewName="A.ce2ba5f3f377264f3060d76da4a6817e6.c45c1cd5c3020486c552cd30eac6a282d()" />
+<Entry OldName="AntiStressColorShuffler.ShareHelper.ShareTwitter()" NewName="A.ce2ba5f3f377264f3060d76da4a6817e6.c2ec317f1d1c5fb5704bb760df41fec38()" />
+<Entry OldName="AntiStressColorShuffler.ShareHelper.ShareGooglePlus()" NewName="A.ce2ba5f3f377264f3060d76da4a6817e6.c8702d6d3277eb669d4f3f2a45a7230df()" />
+<Entry OldName="AntiStressColorShuffler.ShareHelper.ShareLinkedIn()" NewName="A.ce2ba5f3f377264f3060d76da4a6817e6.c8ffc1fe63532966d8fc95949ee7428d7()" />
+<Entry OldName="AntiStressColorShuffler.ShareHelper.ShareEmail()" NewName="A.ce2ba5f3f377264f3060d76da4a6817e6.cf6813f9c1b7f5b587bb47d1e1d66afd9()" />
+<Entry OldName="AntiStressColorShuffler.TranslateHelper..ctor()" NewName="A.c199e1616ad63ac6cf4021c805b2bcdfd..ctor()" />
+<Entry OldName="AntiStressColorShuffler.TranslateHelper..cctor()" NewName="A.c199e1616ad63ac6cf4021c805b2bcdfd..cctor()" />
+<Entry OldName="AntiStressColorShuffler.TranslateHelper.Translate(String str)" NewName="A.c199e1616ad63ac6cf4021c805b2bcdfd.c666685ee7f474fd1f0a639c2e00da91a(String c224b5a4742627a49d115e5795e14ee71)" />
+<Entry OldName="AntiStressColorShuffler.ucTextProgressBar.InitializeComponent()" NewName="AntiStressColorShuffler.ucTextProgressBar.c3e73a52af2e8f186418ee14e2873c622()" />
+<Entry OldName="AntiStressColorShuffler.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="AntiStressColorShuffler.UpdateHelper.c7c2e388ca2a56aab21a1bd81ac2b80da(Object c932fd30592914643229592ef1e684058, ProgressChangedEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="AntiStressColorShuffler.UpdateHelper.c48a9cd4f4816df827bdda95cab593718(Object c932fd30592914643229592ef1e684058, RunWorkerCompletedEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="AntiStressColorShuffler.UpdateHelper.c635c49438b0ac8d601a86cf0441c3ea0(Object c932fd30592914643229592ef1e684058, DoWorkEventArgs c28918005e0b74eb40153898c7741f384)" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources..ctor()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83..ctor()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_ResourceManager()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_ResourceManager()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_Culture()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_Culture()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.set_Culture(CultureInfo value)" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get__4dots_logo_official()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get__4dots_logo_official()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get__4dots_logo_official_icon()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get__4dots_logo_official_icon()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_about()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_about()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_add()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_add()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_add1()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_add1()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_anti_stress_color_shuffler_48()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_anti_stress_color_shuffler_48()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_arrow_down_green()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_arrow_down_green()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_arrow_left_blue()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_arrow_left_blue()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_arrow_right_blue()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_arrow_right_blue()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_arrow_up_green()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_arrow_up_green()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_brush2()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_brush2()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_brush4()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_brush4()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_bullet_ball_glass_blue()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_bullet_ball_glass_blue_16()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_bullet_ball_glass_blue_16()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_bullet_ball_glass_green()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_bullet_ball_glass_red()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_bullet_ball_glass_yellow()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_cart_icon_b_24()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_cart_icon_b_24()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_check()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_check()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_copy()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_copy()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_cut()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_cut()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_delete()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_delete()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_delete1()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_delete1()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_disk_blue()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_disk_blue()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_document_into()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_document_into()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_document_preferences()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_document_preferences()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_earth()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_earth()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_edit()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_edit()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_exit()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_exit()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_exit1()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_exit1()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_facebook_24()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_facebook_24()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_facebook_32()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_facebook_32()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_flash()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_flash()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_flash1()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_flash1()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_folder()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_folder()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_folder_add()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_folder_add()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_folder1()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_folder1()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_googleplus_24()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_googleplus_24()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_help2()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_help2()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_import1()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_import1()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_information()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_information()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_key1()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_key1()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_linkedin_24()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_linkedin_24()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_mail()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_mail()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_media_pause()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_media_pause()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_media_stop()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_media_stop()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_navigate_beginning()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_navigate_beginning()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_navigate_end()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_navigate_end()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_paypal_donate()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_paypal_donate()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_preferences()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_preferences()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_twitter_24()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_twitter_24()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_twitter_32()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_twitter_32()" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources.get_warning()" NewName="A.c09a681b1bfddf35f1ba5f02203974f83.get_warning()" />
+<Entry OldName="AntiStressColorShuffler.DownloadSuggestionsHelper" NewName="A.cbdc262d32992a6a5b40cec987b0e87a1" />
+<Entry OldName="AntiStressColorShuffler.ImageComboBox" NewName="A.c171546accc9dbed20d3b7e2ed379d8f5" />
+<Entry OldName="AntiStressColorShuffler.ComboBoxExItem" NewName="A.c76876f736184916f17faf7ac73fd8785" />
+<Entry OldName="AntiStressColorShuffler.Module" NewName="A.cf0a2ebe70c36d30ab2732649d8d17ff0" />
+<Entry OldName="AntiStressColorShuffler.Program" NewName="A.c04255a747508a64d5d39a4ff3409c930" />
+<Entry OldName="AntiStressColorShuffler.ResFlags" NewName="A.c93dfc22d769a8c2f9448861f70d633d2" />
+<Entry OldName="AntiStressColorShuffler.ResTranslate" NewName="A.ca3d7e4954aab1f6ef8af41bc307dd464" />
+<Entry OldName="AntiStressColorShuffler.ShareHelper" NewName="A.ce2ba5f3f377264f3060d76da4a6817e6" />
+<Entry OldName="AntiStressColorShuffler.TranslateHelper" NewName="A.c199e1616ad63ac6cf4021c805b2bcdfd" />
+<Entry OldName="AntiStressColorShuffler.Properties.Resources" NewName="A.c09a681b1bfddf35f1ba5f02203974f83" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\DownloadSuggestionsHelper.cs" NewName="File0" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmAbout2.cs" NewName="File1" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmAbout2.designer.cs" NewName="File2" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmDownloadUpdate.cs" NewName="File3" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmDownloadUpdate.Designer.cs" NewName="File4" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmLanguage.cs" NewName="File5" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmLanguage.designer.cs" NewName="File6" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmMain.cs" NewName="File7" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmMain.designer.cs" NewName="File8" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ImageComboBox.cs" NewName="File9" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\Module.cs" NewName="File10" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\NiceLine.cs" NewName="File11" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\Program.cs" NewName="File12" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ResFlags.Designer.cs" NewName="File13" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ResTranslate.Designer.cs" NewName="File14" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ShareHelper.cs" NewName="File15" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\TranslateHelper.cs" NewName="File16" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ucTextProgressBar.cs" NewName="File17" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ucTextProgressBar.Designer.cs" NewName="File18" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\UpdateHelper.cs" NewName="File19" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\URLLinkLabel.cs" NewName="File20" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\Properties\Resources.Designer.cs" NewName="File21" />
+<Entry OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\Properties\Settings.Designer.cs" NewName="File22" />
+<Assembly Name="AntiStressColorShuffler"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="AntiStressColorShuffler.DownloadSuggestionsHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="SetupDownloadMenuItems" Variables="this;tsiDownload;lastapp;m;tsic;k;tsi;" ParamCnt="2" />
+<Method Token="100663300" Name="tsi_Click" Variables="this;sender;e;tsi;" ParamCnt="3" />
+<Field Token="67108865" Name="tsiDownloadRoot" />
+<Field Token="67108866" Name="Category" />
+<Field Token="67108867" Name="App" />
+<Field Token="67108868" Name="Url" />
+<Type Token="33554436" Name="AntiStressColorShuffler.frmAbout" />
+<Method Token="100663302" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663303" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663304" Name="frmAbout_Load" Variables="this;sender;e;ds;" ParamCnt="3" />
+<Method Token="100663305" Name="AddLanguageMenuItems" Variables="this;k;ti;" ParamCnt="1" />
+<Method Token="100663306" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;" ParamCnt="3" />
+<Method Token="100663307" Name="ChangeLanguage" Variables="this;language_code;" ParamCnt="2" />
+<Method Token="100663308" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663309" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663310" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663311" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663312" Name="btnRegister_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663313" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663314" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663315" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663316" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663317" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663318" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663319" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663320" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663321" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663322" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663323" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108869" Name="lblf" />
+<Field Token="67108870" Name="bufluf" />
+<Field Token="67108871" Name="lstbufluf" />
+<Field Token="67108872" Name="LDT" />
+<Field Token="67108873" Name="InChangeLanguage" />
+<Field Token="67108874" Name="components" />
+<Field Token="67108875" Name="lblAbout" />
+<Field Token="67108876" Name="btnClose" />
+<Field Token="67108877" Name="pictureBox1" />
+<Field Token="67108878" Name="linkLabel1" />
+<Field Token="67108879" Name="label1" />
+<Field Token="67108880" Name="label2" />
+<Field Token="67108881" Name="linkLabel2" />
+<Field Token="67108882" Name="niceLine1" />
+<Field Token="67108883" Name="niceLine3" />
+<Field Token="67108884" Name="label3" />
+<Field Token="67108885" Name="ullProductWebpage" />
+<Field Token="67108886" Name="btnBuy" />
+<Field Token="67108887" Name="lblRegistered" />
+<Field Token="67108888" Name="btnRegister" />
+<Field Token="67108889" Name="niceLine2" />
+<Field Token="67108890" Name="label4" />
+<Field Token="67108891" Name="lblLicenseKey" />
+<Field Token="67108892" Name="niceLine4" />
+<Field Token="67108893" Name="pictureBox2" />
+<Field Token="67108894" Name="menuStrip1" />
+<Field Token="67108895" Name="downloadToolStripMenuItem" />
+<Field Token="67108896" Name="languageToolStripMenuItem" />
+<Field Token="67108897" Name="languages1ToolStripMenuItem" />
+<Field Token="67108898" Name="languages2ToolStripMenuItem" />
+<Field Token="67108899" Name="helpToolStripMenuItem" />
+<Field Token="67108900" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108901" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67108902" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67108903" Name="tiHelpFeedback" />
+<Field Token="67108904" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67108905" Name="toolStripMenuItem1" />
+<Field Token="67108906" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67108907" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Type Token="33554437" Name="AntiStressColorShuffler.frmDownloadUpdate" />
+<Method Token="100663324" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663325" Name="get_DownloadFile" Variables="this;spos;file;tempdir;" ParamCnt="1" />
+<Method Token="100663326" Name="get_DownloadURL" Variables="this;" ParamCnt="1" />
+<Method Token="100663327" Name="frmDownloadUpdate_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663328" Name="client_DownloadFileCompleted" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663329" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;" ParamCnt="3" />
+<Method Token="100663330" Name="GetEXEDownloadURL" Variables="this;durl;spos;program;" ParamCnt="1" />
+<Method Token="100663331" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663332" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663333" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108908" Name="_DownloadFile" />
+<Field Token="67108909" Name="client" />
+<Field Token="67108910" Name="Cancelled" />
+<Field Token="67108911" Name="components" />
+<Field Token="67108912" Name="pgBar" />
+<Field Token="67108913" Name="btnCancelDownload" />
+<Field Token="67108914" Name="bwDownload" />
+<Field Token="67108915" Name="label1" />
+<Field Token="67108916" Name="lblTotalSize" />
+<Type Token="33554439" Name="AntiStressColorShuffler.frmLanguage" />
+<Method Token="100663340" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663341" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663342" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663343" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;dllfile;downurl;lang_has_been_downloaded;pr;" ParamCnt="4" />
+<Method Token="100663344" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663345" Name="frmLanguage_Load" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663346" Name="SetLanguage" Variables="lang;setlang;lastversion;languagesdownloaded;resetlangdown;keym;keym2;fl;ex;" ParamCnt="0" />
+<Method Token="100663347" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663348" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108918" Name="LangCodes" />
+<Field Token="67108919" Name="LangDesc" />
+<Field Token="67108920" Name="LangImg" />
+<Field Token="67108921" Name="SelectedLanguageCode" />
+<Field Token="67108922" Name="LangURL" />
+<Field Token="67108923" Name="RegKeyName" />
+<Field Token="67108924" Name="components" />
+<Field Token="67108925" Name="label1" />
+<Field Token="67108926" Name="cmbLanguage" />
+<Field Token="67108927" Name="btnOK" />
+<Type Token="33554440" Name="AntiStressColorShuffler.frmMain" />
+<Method Token="100663349" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663350" Name="frmReport_Load" Variables="this;sender;e;colorsArray;allColors;" ParamCnt="3" />
+<Method Token="100663351" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663352" Name="pic1_Paint" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663353" Name="btnShuffle_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663354" Name="timAnimate_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663355" Name="timClear_Tick" Variables="this;sender;e;r;rri;ri;dw;ddw;d2;dk;idk;g;rk;rj;" ParamCnt="3" />
+<Method Token="100663356" Name="btnClear_Click" Variables="this;sender;e;k;j;" ParamCnt="3" />
+<Method Token="100663357" Name="btnSizeInc_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663358" Name="btnSizeDec_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663359" Name="PaintPic" Variables="this;g;colorsArray;allColors;r;width;height;dw;ddw;d2;dk;idk;k;j;c;c1;path;pthGrBrush;colors;lbr;" ParamCnt="1" />
+<Method Token="100663360" Name="frmMain_Resize" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663361" Name="btnAnimate_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663362" Name="btnAnimateDec_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663363" Name="btnAnimateInc_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663364" Name="cmbShape_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663365" Name="SetToolTips" Variables="this;an;an1;an2;sz;sz1;sz2;" ParamCnt="1" />
+<Method Token="100663366" Name="urlLinkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663367" Name="linkLabel1_LinkClicked" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663368" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663369" Name="btnFullscreen_Click" Variables="this;sender;e;co;str1;str;" ParamCnt="3" />
+<Method Token="100663370" Name="frmMain_KeyPress" Variables="this;sender;e;spos1;width;height;spos;co;" ParamCnt="3" />
+<Method Token="100663371" Name="cmbPresets_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663372" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663373" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108928" Name="InLoad" />
+<Field Token="67108929" Name="kCount" />
+<Field Token="67108930" Name="jCount" />
+<Field Token="67108931" Name="lstClearRectangle" />
+<Field Token="67108932" Name="bmp" />
+<Field Token="67108933" Name="InPaintPic" />
+<Field Token="67108934" Name="wasMaxBeforeFullscreen" />
+<Field Token="67108935" Name="components" />
+<Field Token="67108936" Name="btnClose" />
+<Field Token="67108937" Name="pic" />
+<Field Token="67108938" Name="btnShuffle" />
+<Field Token="67108939" Name="timAnimate" />
+<Field Token="67108940" Name="btnClear" />
+<Field Token="67108941" Name="timClear" />
+<Field Token="67108942" Name="btnAnimate" />
+<Field Token="67108943" Name="btnAnimateInc" />
+<Field Token="67108944" Name="btnAnimateDec" />
+<Field Token="67108945" Name="btnSizeDec" />
+<Field Token="67108946" Name="btnSizeInc" />
+<Field Token="67108947" Name="cmbShape" />
+<Field Token="67108948" Name="toolTip1" />
+<Field Token="67108949" Name="linkLabel1" />
+<Field Token="67108950" Name="btnFullscreen" />
+<Field Token="67108951" Name="cmbPresets" />
+<Type Token="33554441" Name="AntiStressColorShuffler.ImageComboBox" />
+<Method Token="100663374" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663375" Name="get_ImageList" Variables="this;" ParamCnt="1" />
+<Method Token="100663376" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663377" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;" ParamCnt="2" />
+<Field Token="67108952" Name="imageList" />
+<Type Token="33554442" Name="AntiStressColorShuffler.ComboBoxExItem" />
+<Method Token="100663378" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663379" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663380" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663381" Name="get_Text" Variables="this;" ParamCnt="1" />
+<Method Token="100663382" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663383" Name="get_ImageIndex" Variables="this;" ParamCnt="1" />
+<Method Token="100663384" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663385" Name="ToString" Variables="this;" ParamCnt="1" />
+<Field Token="67108953" Name="_text" />
+<Field Token="67108954" Name="_imageIndex" />
+<Type Token="33554443" Name="AntiStressColorShuffler.Module" />
+<Method Token="100663386" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663387" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663388" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663389" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663390" Name="WaitNMSeconds" Variables="mseconds;_desired;" ParamCnt="1" />
+<Method Token="100663391" Name="IsLegalFilename" Variables="name;fileInfo;" ParamCnt="1" />
+<Method Token="100663392" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;i;newPath;" ParamCnt="2" />
+<Method Token="100663393" Name="ShowMessage" Variables="msg;" ParamCnt="1" />
+<Method Token="100663394" Name="ShowQuestionDialog" Variables="msg;caption;" ParamCnt="2" />
+<Method Token="100663395" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663396" Name="ShowError" Variables="msg;" ParamCnt="1" />
+<Method Token="100663397" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663398" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663399" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663400" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;" ParamCnt="2" />
+<Method Token="100663401" Name="IsAcceptableMediaInput" Variables="filepath;fi;" ParamCnt="1" />
+<Method Token="100663402" Name="get_Modex64" Variables="" ParamCnt="0" />
+<Method Token="100663403" Name="DownloadPage" Variables="uri;client;data;reader;s;ex;" ParamCnt="1" />
+<Method Token="100663404" Name="HexConverter" Variables="c;rtn;ex;" ParamCnt="1" />
+<Method Token="100663405" Name="DecimalToString" Variables="dec;" ParamCnt="1" />
+<Method Token="100663406" Name="DecimalToString" Variables="dec;decimal_places;format;k;" ParamCnt="2" />
+<Method Token="100663407" Name="StringToDecimal" Variables="str;epos;ihask;sintegral;integral_part;sdecimal;decimal_part;d10;k;ddecimal_part;ddec;dintegral_part;d;" ParamCnt="1" />
+<Method Token="100663408" Name="get_IsWindows64Bit" Variables="p;" ParamCnt="0" />
+<Field Token="67108955" Name="BlueForeColor" />
+<Field Token="67108956" Name="ApplicationName" />
+<Field Token="67108957" Name="Version" />
+<Field Token="67108958" Name="ShortApplicationTitle" />
+<Field Token="67108959" Name="ApplicationTitle" />
+<Field Token="67108960" Name="DownloadURL" />
+<Field Token="67108961" Name="HelpURL" />
+<Field Token="67108962" Name="ProductWebpageURL" />
+<Field Token="67108963" Name="BuyURL" />
+<Field Token="67108964" Name="VersionURL" />
+<Field Token="67108965" Name="TipText" />
+<Field Token="67108966" Name="GeneratedTemporaryFiles" />
+<Field Token="67108967" Name="OpenFilesFilter" />
+<Field Token="67108968" Name="OpenImagesFilter" />
+<Field Token="67108969" Name="AcceptableMediaInputPattern" />
+<Field Token="67108970" Name="AppDataDirectory" />
+<Field Token="67108971" Name="CurrentImagesDirectory" />
+<Field Token="67108972" Name="SelectedLanguage" />
+<Field Token="67108973" Name="args" />
+<Field Token="67108974" Name="IsCommandLine" />
+<Field Token="67108975" Name="IsFromWindowsExplorer" />
+<Field Token="67108976" Name="DoNotOverwriteFiles" />
+<Field Token="67108977" Name="AskBeforeOverwrite" />
+<Field Token="67108978" Name="LeaveSameDateTime" />
+<Field Token="67108979" Name="_Modex64" />
+<Type Token="33554444" Name="AntiStressColorShuffler.NiceLine" />
+<Method Token="100663409" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663410" Name="get_Caption" Variables="this;" ParamCnt="1" />
+<Method Token="100663411" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663412" Name="get_CaptionMarginSpace" Variables="this;" ParamCnt="1" />
+<Method Token="100663413" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663414" Name="get_CaptionPadding" Variables="this;" ParamCnt="1" />
+<Method Token="100663415" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663416" Name="get_LineVerticalAlign" Variables="this;" ParamCnt="1" />
+<Method Token="100663417" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663418" Name="get_CaptionOrizontalAlign" Variables="this;" ParamCnt="1" />
+<Method Token="100663419" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663420" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663421" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663422" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;" ParamCnt="2" />
+<Method Token="100663423" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663424" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67108980" Name="components" />
+<Field Token="67108981" Name="_Caption" />
+<Field Token="67108982" Name="_CaptionMarginSpace" />
+<Field Token="67108983" Name="_CaptionPadding" />
+<Field Token="67108984" Name="_LineVerticalAlign" />
+<Field Token="67108985" Name="_CaptionOrizontalAlign" />
+<Type Token="33554445" Name="AntiStressColorShuffler.LineVerticalAlign" />
+<Field Token="67108986" Name="value__" />
+<Field Token="67108987" Name="Top" />
+<Field Token="67108988" Name="Middle" />
+<Field Token="67108989" Name="Bottom" />
+<Type Token="33554446" Name="AntiStressColorShuffler.CaptionOrizontalAlign" />
+<Field Token="67108990" Name="value__" />
+<Field Token="67108991" Name="Left" />
+<Field Token="67108992" Name="Center" />
+<Field Token="67108993" Name="Right" />
+<Type Token="33554448" Name="AntiStressColorShuffler.Program" />
+<Method Token="100663428" Name="Main" Variables="args;" ParamCnt="1" />
+<Type Token="33554449" Name="AntiStressColorShuffler.ResFlags" />
+<Method Token="100663429" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663430" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663431" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663432" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663433" Name="get_flag_albania" Variables="obj;" ParamCnt="0" />
+<Method Token="100663434" Name="get_flag_belarus" Variables="obj;" ParamCnt="0" />
+<Method Token="100663435" Name="get_flag_bulgaria" Variables="obj;" ParamCnt="0" />
+<Method Token="100663436" Name="get_flag_china" Variables="obj;" ParamCnt="0" />
+<Method Token="100663437" Name="get_flag_croatia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663438" Name="get_flag_czech_republic" Variables="obj;" ParamCnt="0" />
+<Method Token="100663439" Name="get_flag_denmark" Variables="obj;" ParamCnt="0" />
+<Method Token="100663440" Name="get_flag_estonia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663441" Name="get_flag_finland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663442" Name="get_flag_france" Variables="obj;" ParamCnt="0" />
+<Method Token="100663443" Name="get_flag_georgia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663444" Name="get_flag_germany" Variables="obj;" ParamCnt="0" />
+<Method Token="100663445" Name="get_flag_great_britain" Variables="obj;" ParamCnt="0" />
+<Method Token="100663446" Name="get_flag_greece" Variables="obj;" ParamCnt="0" />
+<Method Token="100663447" Name="get_flag_hungary" Variables="obj;" ParamCnt="0" />
+<Method Token="100663448" Name="get_flag_iceland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663449" Name="get_flag_india" Variables="obj;" ParamCnt="0" />
+<Method Token="100663450" Name="get_flag_indonesia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663451" Name="get_flag_iran" Variables="obj;" ParamCnt="0" />
+<Method Token="100663452" Name="get_flag_ireland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663453" Name="get_flag_israel" Variables="obj;" ParamCnt="0" />
+<Method Token="100663454" Name="get_flag_italy" Variables="obj;" ParamCnt="0" />
+<Method Token="100663455" Name="get_flag_japan" Variables="obj;" ParamCnt="0" />
+<Method Token="100663456" Name="get_flag_kenya" Variables="obj;" ParamCnt="0" />
+<Method Token="100663457" Name="get_flag_latvia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663458" Name="get_flag_lithuania" Variables="obj;" ParamCnt="0" />
+<Method Token="100663459" Name="get_flag_netherlands" Variables="obj;" ParamCnt="0" />
+<Method Token="100663460" Name="get_flag_norway" Variables="obj;" ParamCnt="0" />
+<Method Token="100663461" Name="get_flag_pakistan" Variables="obj;" ParamCnt="0" />
+<Method Token="100663462" Name="get_flag_philippines" Variables="obj;" ParamCnt="0" />
+<Method Token="100663463" Name="get_flag_poland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663464" Name="get_flag_portugal" Variables="obj;" ParamCnt="0" />
+<Method Token="100663465" Name="get_flag_romania" Variables="obj;" ParamCnt="0" />
+<Method Token="100663466" Name="get_flag_russia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663467" Name="get_flag_saudi_arabia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663468" Name="get_flag_serbia_montenegro" Variables="obj;" ParamCnt="0" />
+<Method Token="100663469" Name="get_flag_slovakia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663470" Name="get_flag_slovenia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663471" Name="get_flag_south_africa" Variables="obj;" ParamCnt="0" />
+<Method Token="100663472" Name="get_flag_south_korea" Variables="obj;" ParamCnt="0" />
+<Method Token="100663473" Name="get_flag_spain" Variables="obj;" ParamCnt="0" />
+<Method Token="100663474" Name="get_flag_sweden" Variables="obj;" ParamCnt="0" />
+<Method Token="100663475" Name="get_flag_taiwan" Variables="obj;" ParamCnt="0" />
+<Method Token="100663476" Name="get_flag_thailand" Variables="obj;" ParamCnt="0" />
+<Method Token="100663477" Name="get_flag_turkey" Variables="obj;" ParamCnt="0" />
+<Method Token="100663478" Name="get_flag_ukraine" Variables="obj;" ParamCnt="0" />
+<Method Token="100663479" Name="get_flag_vietnam" Variables="obj;" ParamCnt="0" />
+<Field Token="67108995" Name="resourceMan" />
+<Field Token="67108996" Name="resourceCulture" />
+<Type Token="33554450" Name="AntiStressColorShuffler.ResTranslate" />
+<Method Token="100663480" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663481" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663482" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663483" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108997" Name="resourceMan" />
+<Field Token="67108998" Name="resourceCulture" />
+<Type Token="33554452" Name="AntiStressColorShuffler.ShareHelper" />
+<Method Token="100663491" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663492" Name="get_ShareURL" Variables="url;epos;" ParamCnt="0" />
+<Method Token="100663493" Name="get_ShareText" Variables="txt;" ParamCnt="0" />
+<Method Token="100663494" Name="ShareFacebook" Variables="" ParamCnt="0" />
+<Method Token="100663495" Name="ShareTwitter" Variables="" ParamCnt="0" />
+<Method Token="100663496" Name="ShareGooglePlus" Variables="" ParamCnt="0" />
+<Method Token="100663497" Name="ShareLinkedIn" Variables="" ParamCnt="0" />
+<Method Token="100663498" Name="ShareEmail" Variables="" ParamCnt="0" />
+<Type Token="33554453" Name="AntiStressColorShuffler.TranslateHelper" />
+<Method Token="100663499" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663500" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663501" Name="Translate" Variables="str;cm;trnstr;" ParamCnt="1" />
+<Field Token="67109005" Name="rm" />
+<Field Token="67109006" Name="rm2" />
+<Type Token="33554454" Name="AntiStressColorShuffler.ucTextProgressBar" />
+<Method Token="100663502" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663503" Name="SetText" Variables="this;str;" ParamCnt="2" />
+<Method Token="100663504" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663505" Name="zOnPaint" Variables="this;e;brBack;curval;maxval;perc;rangerect;font;fillBrush;sPoint;p;" ParamCnt="2" />
+<Method Token="100663506" Name="WndProc" Variables="this;m;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663507" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663508" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109007" Name="WmPaint" />
+<Field Token="67109008" Name="lblText" />
+<Field Token="67109009" Name="components" />
+<Type Token="33554455" Name="AntiStressColorShuffler.UpdateHelper" />
+<Method Token="100663509" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663510" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663511" Name="InitializeCheckVersionWeek" Variables="lastcheck;month;day;year;dtlast;" ParamCnt="0" />
+<Method Token="100663512" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663513" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;fdu;resq;" ParamCnt="2" />
+<Method Token="100663514" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663515" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663516" Name="CheckVersionBackground" Variables="onstart;res;str;epos;price;sr;line;found;title;version;verdotpos;vermajor;verminor;curverepos;curver;dotpos;curmajor;curminor;app;" ParamCnt="0" />
+<Method Token="100663517" Name="DownloadPage" Variables="uri;client;data;reader;s;ex;" ParamCnt="1" />
+<Method Token="100663518" Name="CheckVersion" Variables="onstart;str;sr;line;found;epos;title;version;app;" ParamCnt="1" />
+<Field Token="67109010" Name="bwCheckVersion" />
+<Type Token="33554456" Name="AntiStressColorShuffler.CheckVersionResult" />
+<Method Token="100663519" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109011" Name="NewVersionReleased" />
+<Field Token="67109012" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109013" Name="OutputMessage" />
+<Type Token="33554457" Name="AntiStressColorShuffler.URLLinkLabel" />
+<Method Token="100663520" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663521" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554458" Name="AntiStressColorShuffler.Properties.Resources" />
+<Method Token="100663522" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663523" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663524" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663525" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663526" Name="get__4dots_logo_official" Variables="obj;" ParamCnt="0" />
+<Method Token="100663527" Name="get__4dots_logo_official_icon" Variables="obj;" ParamCnt="0" />
+<Method Token="100663528" Name="get_about" Variables="obj;" ParamCnt="0" />
+<Method Token="100663529" Name="get_add" Variables="obj;" ParamCnt="0" />
+<Method Token="100663530" Name="get_add1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663531" Name="get_anti_stress_color_shuffler_48" Variables="obj;" ParamCnt="0" />
+<Method Token="100663532" Name="get_arrow_down_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663533" Name="get_arrow_left_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663534" Name="get_arrow_right_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663535" Name="get_arrow_up_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663536" Name="get_brush2" Variables="obj;" ParamCnt="0" />
+<Method Token="100663537" Name="get_brush4" Variables="obj;" ParamCnt="0" />
+<Method Token="100663538" Name="get_bullet_ball_glass_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663539" Name="get_bullet_ball_glass_blue_16" Variables="obj;" ParamCnt="0" />
+<Method Token="100663540" Name="get_bullet_ball_glass_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663541" Name="get_bullet_ball_glass_red" Variables="obj;" ParamCnt="0" />
+<Method Token="100663542" Name="get_bullet_ball_glass_yellow" Variables="obj;" ParamCnt="0" />
+<Method Token="100663543" Name="get_cart_icon_b_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663544" Name="get_check" Variables="obj;" ParamCnt="0" />
+<Method Token="100663545" Name="get_copy" Variables="obj;" ParamCnt="0" />
+<Method Token="100663546" Name="get_cut" Variables="obj;" ParamCnt="0" />
+<Method Token="100663547" Name="get_delete" Variables="obj;" ParamCnt="0" />
+<Method Token="100663548" Name="get_delete1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663549" Name="get_disk_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663550" Name="get_document_into" Variables="obj;" ParamCnt="0" />
+<Method Token="100663551" Name="get_document_preferences" Variables="obj;" ParamCnt="0" />
+<Method Token="100663552" Name="get_earth" Variables="obj;" ParamCnt="0" />
+<Method Token="100663553" Name="get_edit" Variables="obj;" ParamCnt="0" />
+<Method Token="100663554" Name="get_exit" Variables="obj;" ParamCnt="0" />
+<Method Token="100663555" Name="get_exit1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663556" Name="get_facebook_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663557" Name="get_facebook_32" Variables="obj;" ParamCnt="0" />
+<Method Token="100663558" Name="get_flash" Variables="obj;" ParamCnt="0" />
+<Method Token="100663559" Name="get_flash1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663560" Name="get_folder" Variables="obj;" ParamCnt="0" />
+<Method Token="100663561" Name="get_folder_add" Variables="obj;" ParamCnt="0" />
+<Method Token="100663562" Name="get_folder1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663563" Name="get_googleplus_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663564" Name="get_help2" Variables="obj;" ParamCnt="0" />
+<Method Token="100663565" Name="get_import1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663566" Name="get_information" Variables="obj;" ParamCnt="0" />
+<Method Token="100663567" Name="get_key1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663568" Name="get_linkedin_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663569" Name="get_mail" Variables="obj;" ParamCnt="0" />
+<Method Token="100663570" Name="get_media_pause" Variables="obj;" ParamCnt="0" />
+<Method Token="100663571" Name="get_media_stop" Variables="obj;" ParamCnt="0" />
+<Method Token="100663572" Name="get_navigate_beginning" Variables="obj;" ParamCnt="0" />
+<Method Token="100663573" Name="get_navigate_end" Variables="obj;" ParamCnt="0" />
+<Method Token="100663574" Name="get_paypal_donate" Variables="obj;" ParamCnt="0" />
+<Method Token="100663575" Name="get_preferences" Variables="obj;" ParamCnt="0" />
+<Method Token="100663576" Name="get_twitter_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663577" Name="get_twitter_32" Variables="obj;" ParamCnt="0" />
+<Method Token="100663578" Name="get_warning" Variables="obj;" ParamCnt="0" />
+<Field Token="67109014" Name="resourceMan" />
+<Field Token="67109015" Name="resourceCulture" />
+<Type Token="33554459" Name="AntiStressColorShuffler.Properties.Settings" />
+<Method Token="100663579" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663580" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663581" Name="get_Default" Variables="" ParamCnt="0" />
+<Method Token="100663582" Name="get_ShapeSize" Variables="this;" ParamCnt="1" />
+<Method Token="100663583" Name="set_ShapeSize" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663584" Name="get_ShapeType" Variables="this;" ParamCnt="1" />
+<Method Token="100663585" Name="set_ShapeType" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663586" Name="get_AnimationSpeed" Variables="this;" ParamCnt="1" />
+<Method Token="100663587" Name="set_AnimationSpeed" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663588" Name="get_Language" Variables="this;" ParamCnt="1" />
+<Method Token="100663589" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663590" Name="get_LastCheckVersion" Variables="this;" ParamCnt="1" />
+<Method Token="100663591" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663592" Name="get_Price" Variables="this;" ParamCnt="1" />
+<Method Token="100663593" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663594" Name="get_Initialized" Variables="this;" ParamCnt="1" />
+<Method Token="100663595" Name="set_Initialized" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109016" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663301" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\DownloadSuggestionsHelper.cs" NewName="File0" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmAbout2.cs" NewName="File1" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmAbout2.designer.cs" NewName="File2" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmDownloadUpdate.cs" NewName="File3" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmDownloadUpdate.Designer.cs" NewName="File4" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmLanguage.cs" NewName="File5" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmLanguage.designer.cs" NewName="File6" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmMain.cs" NewName="File7" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\frmMain.designer.cs" NewName="File8" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ImageComboBox.cs" NewName="File9" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\Module.cs" NewName="File10" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\NiceLine.cs" NewName="File11" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\Program.cs" NewName="File12" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ResFlags.Designer.cs" NewName="File13" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ResTranslate.Designer.cs" NewName="File14" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ShareHelper.cs" NewName="File15" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\TranslateHelper.cs" NewName="File16" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ucTextProgressBar.cs" NewName="File17" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\ucTextProgressBar.Designer.cs" NewName="File18" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\UpdateHelper.cs" NewName="File19" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\URLLinkLabel.cs" NewName="File20" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\Properties\Resources.Designer.cs" NewName="File21" />
+<File OldName="c:\code\Other\AntiStressColorShuffler\AntiStressColorShuffler\Properties\Settings.Designer.cs" NewName="File22" />
+</Mappings>
